@@ -1,5 +1,5 @@
-$Username = "booty"
-$Password = "password123"
+$Username = "Username"
+$Password = "Password"
 
 $group = "Administrators"
 
